@@ -1,0 +1,9 @@
+{
+  "liveServer.settings.port": 5501,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true
+}
